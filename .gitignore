@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.tmp.*
+*.bak
+*.cache
+*.project
+*.settings
+.idea/
+*.sublime-workspace
+.svn
